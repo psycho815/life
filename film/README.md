@@ -1,8 +1,8 @@
 # 导演
-- [是枝裕和](2017.md)
+- [是枝裕和](derector.md#Hirokazu-Koreeda)
 
 
 # 2017
-- [《步履不停》](2017.md)
+- [《步履不停》](2017.md#still-walking)
 - 《沙漠之花》
 - 《伴你高飞》
