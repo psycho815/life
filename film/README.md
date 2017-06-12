@@ -1,5 +1,5 @@
 # 导演
-- [是枝裕和](derector.md#Hirokazu-Koreeda)
+- [是枝裕和](derector.md#hirokazu-koreeda)
 
 
 # 2017
